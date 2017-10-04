@@ -16,7 +16,7 @@ utilityCode/|Python scripts for extracting, cleaning, and filtering data
 
 ## Presentation:
 
-[Presentation](https://github.com/codebleeder/Sentiment-analysis/blob/master/analysis%20of%20stock%20performance%20based%20on%20sentiment%20analysis.pdf)
+The [Presentation](https://github.com/codebleeder/Sentiment-analysis/blob/master/analysis%20of%20stock%20performance%20based%20on%20sentiment%20analysis.pdf) contains further details on data source (WARC), and overall data-flow.
 
 ## Data visualization
 
