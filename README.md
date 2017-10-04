@@ -6,12 +6,12 @@ I had done this project for my course in Big Data in the Fall of 2014, during my
 
 Folder | Description
 -------|-------------
-ExtractionMRCode/|Map-reduce code to extract data relevant to Apple products using Textblob library
-cleanWithoutTextblob/|Map-reduce code to extract data relevant to Apple products without Textblob library
-collectWikipediaPageCounts/|Code to extract page views on Apple products on Wikipedia
-sentiment/|Map-reduce code to calculate sentiment of extracted data
-stats/finalData/|Final extracted sentiment data
-utilityCode/|Python scripts for extracting, cleaning, and filtering data
+[ExtractionMRCode/](https://github.com/codebleeder/Sentiment-analysis/tree/master/ExtractionMRCode)|Map-reduce code to extract data relevant to Apple products using Textblob library
+[cleanWithoutTextblob/](https://github.com/codebleeder/Sentiment-analysis/tree/master/cleanWithoutTextblob)|Map-reduce code to extract data relevant to Apple products without Textblob library. This code was used on AWS EMR cluster as Textblob is not needed, and is simpler.
+[collectWikipediaPageCounts/](https://github.com/codebleeder/Sentiment-analysis/tree/master/collectWikipediaPageCounts)|Code to extract page views on Apple products on Wikipedia
+[sentiment/](https://github.com/codebleeder/Sentiment-analysis/tree/master/sentiment)|Map-reduce code to calculate sentiment of extracted data
+[stats/](https://github.com/codebleeder/Sentiment-analysis/tree/master/stats)|Extracted sentiment data, and stock values
+[utilityCode/](https://github.com/codebleeder/Sentiment-analysis/tree/master/utilityCode)|Python scripts for extracting, cleaning, and filtering data
 
 
 ## Presentation:
